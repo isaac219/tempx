@@ -1,0 +1,14 @@
+{
+  "name": "tempx",
+  "version": "1.0.0",
+  "description": "Simple command line tool to create reusable templates to improve workflow", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Na",
+  "license": "ISC",
+"preferGlobal": true,
+  "bin": {
+    "tempx": "index.js"
+  }
+}
