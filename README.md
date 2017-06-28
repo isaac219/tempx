@@ -7,6 +7,8 @@ Install node, which can vary depending on your operating system.
 
 Then run: npm install --global tempx
 
+If you run into trouble with creating or editing templates, you need to fix your npm permissions, which can be found here: 
+https://docs.npmjs.com/getting-started/fixing-npm-permissions
 ## Usage
 Run commands using the format tempx argument1 argument2
 To create a new file and apply a template, simply run 'tempx filename.extension'
